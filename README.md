@@ -18,14 +18,14 @@
 
 
 ### Glad to see you here!  
-I'm [Oguzhan Kurtoglu], a highly motivated and determined self-learner on a journey to master the MERN (MongoDB, Express.js, React, Node.js) stack. My passion for coding and building applications drives me to continually enhance my skills and take on new challenges.  
+I'm Oguzhan Kurtoglu, a highly motivated and determined self-learner on a journey to master the MERN (MongoDB, Express.js, React, Node.js) stack. My passion for coding and building applications drives me to continually enhance my skills and take on new challenges.  
   
 
 <br/>  
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" >
 
 - 🌱I am an currently officer. I can support your projects voluntarily to improve myself.  
   
