@@ -93,4 +93,3 @@ I'm [Oguzhan Kurtoglu], a highly motivated and determined self-learner on a jour
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
