@@ -25,7 +25,7 @@ I'm [Oguzhan Kurtoglu], a highly motivated and determined self-learner on a jour
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="80%">
 
 - 🌱I am an currently officer. I can support your projects voluntarily to improve myself.  
   
@@ -36,7 +36,7 @@ I'm [Oguzhan Kurtoglu], a highly motivated and determined self-learner on a jour
 - ⚡Please don't hesitate to contact with me  
 
 
-</td><td valign="top" width="50%">
+
 
 
 
