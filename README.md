@@ -64,7 +64,7 @@ I'm Oguzhan Kurtoglu, a highly motivated and determined self-learner on a journe
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="40%">
+<table width="100%"><tr><td valign="top" width="40%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=oguzhnkurtoglu&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
